@@ -1,6 +1,9 @@
 # S03 T03: Control structure
 
 **Target:**
+  * conditional and loops
+  * if / else / elif
+  * Functions
 
 _We will start to get familiar with the control structures of Python_
 

@@ -1,4 +1,4 @@
-# S03 T03: Control structure
+# S03 T03: Control Structure
 
 **Target:**
   * conditional and loops

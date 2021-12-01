@@ -8,7 +8,7 @@
 _We will start to get familiar with the control structures of Python_
 
 # Exercise 1
-- he exercise wants to create a program that rates a numeric variable based on the Suspended / Passed / Notable / Excellent scale.
+- The exercise wants to create a program that rates a numeric variable based on the Suspended / Passed / Notable / Excellent scale.
 
 # Exercise 2
 - Using the following Programiz tutorial: Python Input, Output and Import create a program that asks you two numbers. It should show you a message saying if the first one is bigger, the second one is bigger or they are the same.
